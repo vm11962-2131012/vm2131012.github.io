@@ -17,6 +17,8 @@ One or several paragraphs.
 ## Section 3
 One or several paragraphs for subsection 3.
 
+## Section 4
+
 ## See also
 - [Resource 1](url)
 - [Resource 2](url)
