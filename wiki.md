@@ -1,5 +1,5 @@
 # Topic Title
-![](url for an image about your topic)
+![]Hiking!!
 
 A short description / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
