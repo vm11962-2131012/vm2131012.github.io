@@ -33,32 +33,41 @@ Data collected by the Mars Resonnaissance helps various engineers and scientists
 
 4. Find areas with strong signs of landed science for sampling
 
-5. 
-Return data from Mars to scientists 
+5. Return data from Mars to scientists 
 
 ## Landsat 9
 ![images](Images/landsat9.jpeg)
 *credits to NASA*
 
-Launched in California the Landsat 9 was launched in collaboration by NASA and USGS (U.S.Geological Survey) to monitor, track and understand resources on Earth that are required to sustain our lives. As humans we havve taken over large portions of land use and have ultimately driven climate induced issues onto our planet. Landsat 9 is the **only** U.S. satellite system that has been set out to orbit and record both natural and human driven issues. It works alongside Lansat 8 which works at a fast rate for capturing data and can now retire the use of Landsat 7 due to its slower capabilities.
+Launched in California in 2021, the Landsat 9 was launched in collaboration by NASA and USGS (U.S.Geological Survey) to monitor, track and understand resources on Earth that are required to sustain our lives. As humans we havve taken over large portions of land use and have ultimately driven climate induced issues onto our planet. Landsat 9 is the **only** U.S. satellite system that has been set out to orbit and record both natural and human driven issues. It works alongside Lansat 8 which works at a fast rate for capturing data and can now retire the use of Landsat 7 due to its slower capabilities.
 ### Landsat Facts
  - Design was built to live for 5 years
  - Captures about 700 Images per day
  - 438 miles away from earth level
- - Travelling at 16,760 miles per hour
+ - Travelling at 16,760 mph
 
-## Curiosity Rover (Mars Science Laboratory)
+## Mars Odyssey
 ![images](Images/discoverypark.jpg)
-One or several paragraphs for subsection 3.
-### (Optional) Subsection 1
-One or several paragraphs
+In 2001 the Mars Odyssey began to Orbit Mars and thanks to scientific and tehcnological advancements NASA was able to retreive spatial data of Mars' surface wihch was never seen by austronauts before. With the help of GIS, which is used for geographic Earth analysis, the mapping of exoplanets and other celestial bodies. This was made achieveable due to the abilities of converting data and images from rovers and sattelites into spatial data. 
+### THEMIS (Thermal Emission Imaging System)
+The THEMIS was a camera placed by NASA on the Odyssey to help map the surface of Mars as well as its thermal energy that is not visible to the human eye. With the THEMIS scientists were then able to draft a strikingly similar model of Mars and its geologic activity.
 
 ## See also
+### The Power of GIS in Space
 - [https://id.land/blog/the-power-of-gis-in-space](url)
+
+### GIS at NASA
 - [https://storymaps.arcgis.com/stories/1c45be14c6fd4522824be10e0f446cda](url)
+
+### Present NASA Missions
 - [https://www.nasa.gov/general/our-missions-present/](url)
+
+### Finding the Best Paths for Rovers and Humans on Mars
+- [https://www.esri.com/about/newsroom/arcuser/finding-the-best-paths-for-rovers-and-humans-on-mars/](url)
+
 
 ## References
 1. NASA
 2. Astronomy
 3. GIS at NASA
+4. ESRI
