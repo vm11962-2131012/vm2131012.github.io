@@ -6,7 +6,7 @@ Victoria Martinez
 
 
 
-## Blue Ghost Mission 1
+## Blue Ghost Mission I
 ![images](Images/blue-ghost.webp)
 NASA is developing a series of lunar deliveries and Firefly's Blue Ghost Lander will help mark the beginnings of controlled human existence on the Moon. The lander will be on the Moon for 14 days studying the intricate subsurface up to 700 miles deep. By exploring an untouched area of the moon, using magnetotellurics will help conduct analysis on surface and magnetic fields of Moon surface materials helping define their compositions.
 
@@ -19,9 +19,13 @@ Data collected by the Mars Resonnaissance helps various engineers and scientists
 
 ### Objectives for the Mars Reconnaissance Orbiter
 1.Gather climate patterns of Mars while understanding seasonal changes
+
 2.Conclude surface terrain on Mars and indetify any past or present trace of water
+
 3.Search in areas where aqueous/hydrothermal activity is present
+
 4.Find areas with strong signs of landed science for sampling
+
 5.Return data from Mars to scientists 
 
 ## Curiosity Rover (Mars Science Laboratory)
