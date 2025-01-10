@@ -1,4 +1,4 @@
-# GIS in NASA
+# GIS in Space
 by Victoria Martinez
 
 ## Top 4 Space Missions
