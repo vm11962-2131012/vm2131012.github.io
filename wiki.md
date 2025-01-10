@@ -1,25 +1,27 @@
 # Topic Title
 ![]Hiking !!
 
-Top 5 trails to see in Seattle, WA.
+Top 4 trails to see in Seattle, WA.
 
 A short description on hiking trails / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](url), or any other element you think would be helpful for your audience to understand the topic.
 
 
-## Section 1
+
+
+## Burke Gilman Trail
 One or several paragraphs.
 
-## Section 2
+## Rattlesnake Ledge
 One or several paragraphs.
 ### (Optional) Subsection 1
 One or several paragraphs.
 ### (Optional) Subsection 2
 One or several paragraphs.
 
-## Section 3
+## Washington Park Arboretum
 One or several paragraphs for subsection 3.
 
-## Section 4
+## Arboretum Waterfront Trail
 
 ## See also
 - [Resource 1](url)
