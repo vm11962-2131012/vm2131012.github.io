@@ -2,7 +2,7 @@
 
 Top 4 trails to see in Seattle, WA.
 
-A short description on hiking trails / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![https://www.usnews.com/object/image/0000015c-ad20-d74e-afdd-af3286b60000/903-discovery-park-6-courtesy-of-seattle-parks-and-recreation-and-tia-international-photography.jpg?update-time=1497555115048&size=responsiveFlow970](url), or any other element you think would be helpful for your audience to understand the topic.
+A short description on hiking trails / abstract of the topic you choose. For the text here and below, feel free to use **bold** and *italic* fonts, [linked texts](url),  ![images](./downloads/discoverypark.jpg), or any other element you think would be helpful for your audience to understand the topic.
 
 
 
