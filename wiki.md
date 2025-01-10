@@ -11,6 +11,7 @@ Victoria Martinez
 
 ## Blue Ghost Mission I
 ![images](Images/blue-ghost.webp)
+*credits to NASA*
 
 NASA is developing a series of lunar deliveries and Firefly's Blue Ghost Lander will help mark the beginnings of controlled human existence on the Moon. The lander will be on the Moon for 14 days studying the intricate subsurface up to 700 miles deep. By exploring an untouched area of the moon, using magnetotellurics will help conduct analysis on surface and magnetic fields of Moon surface materials helping define their compositions.
 
@@ -19,6 +20,7 @@ The LMS is the given name of the device that will help NASA explore the 350 mile
 
 ## Mars Reconnaissance Orbiter
 ![images](Images/mars-orbiter.webp)
+*credits to NASA*
 
 Data collected by the Mars Resonnaissance helps various engineers and scientists focused on Mars to find areas that can most likelt be future landing sites. It is part of the missions that have been set to meet the Mars Exploration Program which focus on past Mars life, current Mars climate shifts, the interior and exterior of Mars and its possibility to harbor human life. In its span of existence the spacecraft has orbited and analyzed Mars from 2006-2014 while aiding the Mars Science Lab and the Mars Exploration Rovers.
 
@@ -36,6 +38,7 @@ Return data from Mars to scientists
 
 ## Landsat 9
 ![images](Images/landsat9.jpeg)
+*credits to NASA*
 
 Launched in California the Landsat 9 was launched in collaboration by NASA and USGS (U.S.Geological Survey) to monitor, track and understand resources on Earth that are required to sustain our lives. As humans we havve taken over large portions of land use and have ultimately driven climate induced issues onto our planet. Landsat 9 is the **only** U.S. satellite system that has been set out to orbit and record both natural and human driven issues. It works alongside Lansat 8 which works at a fast rate for capturing data and can now retire the use of Landsat 7 due to its slower capabilities.
 ### Landsat Facts
