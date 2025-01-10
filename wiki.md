@@ -5,10 +5,6 @@ Victoria Martinez
 
 
 
-![images](Images/discoverypark.jpg)
-
-
-
 
 ## Blue Ghost Mission 1
 ![images](Images/blue-ghost.webp)
