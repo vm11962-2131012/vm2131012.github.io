@@ -1,5 +1,4 @@
-# Topic Title
-![]Hiking !!
+# Hiking in Seattle
 
 Top 4 trails to see in Seattle, WA.
 
@@ -10,21 +9,26 @@ A short description on hiking trails / abstract of the topic you choose. For the
 
 ## Burke Gilman Trail
 One or several paragraphs.
+### (Optional) Subsection 1
+One or several paragraphs
 
 ## Rattlesnake Ledge
 One or several paragraphs.
 ### (Optional) Subsection 1
 One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
 
 ## Washington Park Arboretum
 One or several paragraphs for subsection 3.
+### (Optional) Subsection 1
+One or several paragraphs
 
 ## Arboretum Waterfront Trail
+One or several paragraphs for subsection 3.
+### (Optional) Subsection 1
+One or several paragraphs
 
 ## See also
-- [Resource 1](url)
+- [https://eatingtheave.com/](url)
 - [Resource 2](url)
 - [Resource 3](url)
 
