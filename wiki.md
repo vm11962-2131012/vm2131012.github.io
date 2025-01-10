@@ -1,17 +1,16 @@
 # GIS in NASA
-Victoria Martinez
+by Victoria Martinez
 
 ## Top 4 Space Missions
 - Blue Ghost Mission I
 - Mars Reconnaissance Orbiter
-- Curiosity Rover
 - Landsat 9
-
+- Mars Odyssey
 
 
 ## Blue Ghost Mission I
 ![images](Images/blue-ghost.webp)
-*credits to NASA*
+*"Firefly's Blue Ghost Lander" credits to NASA*
 
 NASA is developing a series of lunar deliveries and Firefly's Blue Ghost Lander will help mark the beginnings of controlled human existence on the Moon. The lander will be on the Moon for 14 days studying the intricate subsurface up to 700 miles deep. By exploring an untouched area of the moon, using magnetotellurics will help conduct analysis on surface and magnetic fields of Moon surface materials helping define their compositions.
 
@@ -20,7 +19,7 @@ The LMS is the given name of the device that will help NASA explore the 350 mile
 
 ## Mars Reconnaissance Orbiter
 ![images](Images/mars-orbiter.webp)
-*credits to NASA*
+*"Mars Reconnaissance Orbiter" credits to NASA*
 
 Data collected by the Mars Resonnaissance helps various engineers and scientists focused on Mars to find areas that can most likelt be future landing sites. It is part of the missions that have been set to meet the Mars Exploration Program which focus on past Mars life, current Mars climate shifts, the interior and exterior of Mars and its possibility to harbor human life. In its span of existence the spacecraft has orbited and analyzed Mars from 2006-2014 while aiding the Mars Science Lab and the Mars Exploration Rovers.
 
@@ -37,7 +36,7 @@ Data collected by the Mars Resonnaissance helps various engineers and scientists
 
 ## Landsat 9
 ![images](Images/landsat9.jpeg)
-*credits to NASA*
+*"Landsat 9" credits to NASA*
 
 Launched in California in 2021, the Landsat 9 was launched in collaboration by NASA and USGS (U.S.Geological Survey) to monitor, track and understand resources on Earth that are required to sustain our lives. As humans we havve taken over large portions of land use and have ultimately driven climate induced issues onto our planet. Landsat 9 is the **only** U.S. satellite system that has been set out to orbit and record both natural and human driven issues. It works alongside Lansat 8 which works at a fast rate for capturing data and can now retire the use of Landsat 7 due to its slower capabilities.
 ### Landsat Facts
@@ -47,7 +46,9 @@ Launched in California in 2021, the Landsat 9 was launched in collaboration by N
  - Travelling at 16,760 mph
 
 ## Mars Odyssey
-![images](Images/discoverypark.jpg)
+![images](Images/mars-odyssey.webp)
+*"Mars Odyssey" credits to NASA*
+
 In 2001 the Mars Odyssey began to Orbit Mars and thanks to scientific and tehcnological advancements NASA was able to retreive spatial data of Mars' surface wihch was never seen by austronauts before. With the help of GIS, which is used for geographic Earth analysis, the mapping of exoplanets and other celestial bodies. This was made achieveable due to the abilities of converting data and images from rovers and sattelites into spatial data. 
 ### THEMIS (Thermal Emission Imaging System)
 The THEMIS was a camera placed by NASA on the Odyssey to help map the surface of Mars as well as its thermal energy that is not visible to the human eye. With the THEMIS scientists were then able to draft a strikingly similar model of Mars and its geologic activity.
