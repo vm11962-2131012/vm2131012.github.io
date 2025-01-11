@@ -11,7 +11,7 @@ Below you will learn about some of the top missions set up by NASA using the hel
 
 ## Blue Ghost Mission I
 ![images](Images/blue-ghost.webp)
-*"Firefly's Blue Ghost Lander" credits to NASA*
+*"Firefly's Blue Ghost Lander " credits to NASA*
 
 NASA is developing a series of lunar deliveries and Firefly's Blue Ghost Lander will help mark the beginnings of controlled human existence on the Moon. The lander will be on the Moon for 14 days studying the intricate subsurface up to 700 miles deep. By exploring an untouched area of the moon, using magnetotellurics will help conduct analysis on surface and magnetic fields of Moon surface materials helping define their compositions.
 
@@ -22,7 +22,7 @@ The LMS is the given name of the device that will help NASA explore the 350 mile
 ![images](Images/mars-orbiter.webp)
 *"Mars Reconnaissance Orbiter" credits to NASA*
 
-Data collected by the Mars Resonnaissance helps various engineers and scientists focused on Mars to find areas that can most likelt be future landing sites. It is part of the missions that have been set to meet the Mars Exploration Program which focus on past Mars life, current Mars climate shifts, the interior and exterior of Mars and its possibility to harbor human life. In its span of existence the spacecraft has orbited and analyzed Mars from 2006-2014 while aiding the Mars Science Lab and the Mars Exploration Rovers.
+Data collected by the Mars Resonnaissance helps various engineers and scientists focused on Mars to find areas that can most likely be future landing sites. It is part of the missions that have been set to meet the Mars Exploration Program which focus on past Mars life, current Mars climate shifts, the interior and exterior of Mars and its possibility to harbor human life. In its span of existence the spacecraft has orbited and analyzed Mars from 2006-2014 while aiding the Mars Science Lab and the Mars Exploration Rovers.
 
 ### Objectives for the Mars Reconnaissance Orbiter
 1. Gather climate patterns of Mars while understanding seasonal changes
